@@ -1,0 +1,17 @@
+﻿  D3D.cpp
+  D3DUtil.cpp
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\DiceGameDirectX\DiceGameDirectX\D3DUtil.h(8,10): error C1083:  Cannot open include file: 'SimpleMath.h': No such file or directory
+  game.cpp
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\DiceGameDirectX\DiceGameDirectX\D3DUtil.h(8,10): error C1083:  Cannot open include file: 'SimpleMath.h': No such file or directory
+  main.cpp
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\DiceGameDirectX\DiceGameDirectX\D3D.h(5,10): error C1083:  Cannot open include file: 'SimpleMath.h': No such file or directory
+  player.cpp
+  random.cpp
+  Sprite.cpp
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\DiceGameDirectX\DiceGameDirectX\D3D.h(5,10): error C1083:  Cannot open include file: 'SimpleMath.h': No such file or directory
+  TexCache.cpp
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\DiceGameDirectX\DiceGameDirectX\Sprite.cpp(1,10): error C1083:  Cannot open include file: 'CommonStates.h': No such file or directory
+  WindowUtils.cpp
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\DiceGameDirectX\DiceGameDirectX\TexCache.cpp(1,10): error C1083:  Cannot open include file: 'DDSTextureLoader.h': No such file or directory
+  Generating Code...
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\DiceGameDirectX\DiceGameDirectX\D3D.h(5,10): error C1083:  Cannot open include file: 'SimpleMath.h': No such file or directory
